@@ -1,0 +1,65 @@
+baseURL = 'https://chris.gardiner-bill.com'
+title = 'CGB'
+theme = "hugo-coder"
+languageCode = 'en_gb'
+defaultcontentlanguage = "en"
+
+pygmentsstyle = "bw"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+
+
+[params]
+  author = "Chris Gardiner-Bill"
+  info = "Technical Writer"
+  description = "Chris Gardiner-Bill's professional website and portfolio"
+  keywords = "blog,developer,professional,technical writer,docs as code"
+  #avatarurl = "images/avatar.jpg"
+  gravatar = "cbill.uk@googlemail.com"
+
+  #favicon_32 = "/img/favicon-32x32.png"
+  #favicon_16 = "/img/favicon-16x16.png"
+
+  since = 2023
+
+  enableTwemoji = true
+
+  colorScheme = "auto"
+  hidecolorschemetoggle = false
+
+  #customCSS = ["css/custom.css"]
+  #customSCSS = ["scss/custom.scss"]
+  #customJS = ["js/custom.js"]
+
+[taxonomies]
+  category = "categories"
+  series = "series"
+  tag = "tags"
+  author = "authors"
+
+# Social links
+[[params.social]]
+  name = "Github"
+  icon = "fa fa-github fa-2x"
+  weight = 1
+  url = "https://github.com/foss-scribe/"
+
+[[params.social]]
+  name = "LinkedIn"
+  icon = "fa fa-linkedin fa-2x"
+  weight = 1
+  url = "https://www.linkedin.com/in/chris-gardiner-bill-27b6aa39/"
+
+# Menu links
+[[menu.main]]
+  name = "Blog"
+  weight = 1
+  url  = "posts/"
+[[menu.main]]
+  name = "About"
+  weight = 2
+  url = "about/"
+[[menu.main]]
+  name = "Resume"
+  weight = 3
+  url = "resume/"
