@@ -18,3 +18,7 @@ From the UK originally, I grew up and was educated in Australia. An avid travell
 I'm more active online under my *nom de plume* [Chris Rosser](https://chrisrosser.net), under which I write and serialise fantasy stories to a membership of 350 readers. I have published two novellas and am currently drafting my my first full-length novel.
 
 In addition to my [author website](https://chrisrosser.net), you can also find some of the writing on [Medium](https://chrisrosser.medium.com) where I blog about topics that tickle my creative and technical interests.
+
+## This site
+
+Written in markdown, hosted on [GitHub](https://github.com/foss-scribe/portfolio), built with [Hugo](https://gohugo.io/) and published to [Netlify](https://www.netlify.com).
