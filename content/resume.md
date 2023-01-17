@@ -85,21 +85,16 @@ I was also involved in several innovative and improvement projects designed to i
 
 ## Personal projects
 
+[ChrisRosser.net](https://chrisrosser.net) 
+:   Under the *nom de plume*, Chris Rosser, I write and serialise fantasy stories to an audience of 350 subscribers
 
-### [ChrisRosser.net](https://chrisrosser.net)
+[Medium](https://chrisrosser.medium.com)
+:   Also under my *nom de plume*, I blog on technical subjects that take my fancy and publish them to Medium.
 
-Under the *nom de plume*, Chris Rosser, I blog, and write and serialise fantasy stories to an audience of 350 subscribers.
+[Rosser's Reads](https://reads.chrisrosser.net)
+:   Bookshelf app to track and display books I've read, want to read and  currently reading, created in VueJS and deployed to Netlify. [Source code available on GitHub](https://github.com/foss-scribe/rossers-reads).
 
-### [Medium](https://chrisrosser.medium.com)
+[Nexus 3](https://nexus3.games)
+:   A project to help table-top roleplayers find games. I'm the lead (and only) developer. The backend is written in Python (using FastAPI) and the front-end is an Single-Page Application written in VueJS.
 
-Also under my *nom de plume*, I blog on technical subjects that take my fancy and publish them to Medium.
-
-### [Rosser's Reads](https://reads.chrisrosser.net)
-
-A simple bookshelf app to track and display the book's I've read, want to read and am currently reading, created in VueJS and deployed to Netlify. [Source code available on GitHub](https://github.com/foss-scribe/rossers-reads).
-
-### [Nexus 3](https://nexus3.games)
-
-In early 2022, I co-founded a project to help table-top roleplayers find games. I'm the lead (and only) developer. The backend is written in Python (using FastAPI) and the front-end is an Single-Page Application written in VueJS.
-
-
+*[Resume available on GitHub](https://github.com/foss-scribe/resume)*

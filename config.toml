@@ -63,3 +63,7 @@ pygmentscodefencesguesssyntax = true
   name = "Resume"
   weight = 3
   url = "resume/"
+[[menu.main]]
+    name = "Resume (PDF)"
+    weight = 4
+    url = "files/chris-gardiner-bill-resume.pdf"
