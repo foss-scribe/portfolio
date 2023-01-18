@@ -9,13 +9,13 @@ author = "Chris Gardiner-Bill"
 
 ## Profile
 
-I am a senior technical writer and trainer with almost 20 years of experience producing high-quality documentation and training material for technical, business and generalist audiences. I have worked in manufacturing, banking, engineering services, software development, sports tech, and analytics sectors, delivering high-quality web, mobile and print documentation.
+A senior technical writer and trainer with an exceptional blend of documentation and technical abilities. Significant experience producing high-quality documentation and training material for technical, business and generalist audiences across APAC and the EU. Broad industry participation including manufacturing, banking and financial service, engineering services, software development, sports tech, analytics and publishing sectors. A specialist in *docs as code* using Git, Markdown, AsciiDoc, static site generators, and CI/CD to automate and rapidly publish docs to market at scale, while minimising the costs of production and improving quality.
 
-I specialise in creating and managing *docs as code* using Git, Markdown, AsciiDoc, static site generators, and CI/CD-based automated single-source publishing to the web, mobile and print. 
+## Key skills
 
-I have a high degree of technical literacy with fluency in RESTful APIs, Python, JavaScript, PHP, HTML/CSS, Bash, Linux, macOS and AWS-based DevOps.
+Technical Documentation, Technical Writing, Editing, Docs as Code, Training, Instructional Design, Proposal Writing, Collaboration Tools (JIRA, Confluence, Slack), Mentoring, Problem Solving, Automation, API Testing, Project Management, Agile, Scrum, CI/CD
 
-## Experience
+## Professional Experience
 
 ### Technical Writer, Specialized Bicycle Components, 2020-2023
 
@@ -55,7 +55,7 @@ I was also involved in several innovative and improvement projects designed to i
 
 `Technical Writing` · `Project Management` · `Proposal Writing` · `Editing` · `Content Management` · `Proofreading` · `Technical Documentation` · `Marketing Communications` · `Copy Editing` · `Visio` · `Microsoft Word` · `MS Project` · `Microsoft Office` · `VBA`
 
-### Summary of earlier roles
+### Prior roles
 
 * Technical Writer, ANZ Banking Group, Australia - 2010
 * Technical Author, NorthgateArinso, United Kingdom - 2008-2010
