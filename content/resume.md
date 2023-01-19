@@ -9,7 +9,7 @@ author = "Chris Gardiner-Bill"
 
 ## Profile
 
-A senior technical writer and trainer with an exceptional blend of documentation and technical abilities. Significant experience producing high-quality documentation and training material for technical, business and generalist audiences across APAC and the EU. Broad industry participation including manufacturing, banking and financial service, engineering services, software development, sports tech, analytics and publishing sectors. A specialist in *docs as code* using Git, Markdown, AsciiDoc, static site generators, and CI/CD to automate and rapidly publish docs to market at scale, while minimising the costs of production and improving quality.
+A senior technical writer and trainer with an exceptional blend of documentation and technical abilities. Significant experience producing high-quality documentation and training material for technical, business and generalist audiences across APAC and the EU. Broad industry participation including manufacturing, banking and financial services, engineering services, software development, sports tech, analytics and publishing sectors. A specialist in *docs as code* using Git, Markdown, AsciiDoc, static site generators, and CI/CD to automate and rapidly publish docs to market at scale, while minimising the costs of production and improving quality.
 
 ## Key skills
 
