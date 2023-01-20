@@ -52,7 +52,7 @@ pygmentscodefencesguesssyntax = true
 
 # Menu links
 [[menu.main]]
-  name = "Portfolio
+  name = "Portfolio"
   weight = 1
   url = "portfolio/"
 [[menu.main]]
