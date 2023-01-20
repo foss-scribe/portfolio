@@ -78,11 +78,11 @@ Wrote, edited and produced responses to tender for the Infrastructure ANZ busine
 
 ### Prior roles
 
-* Technical Writer, ANZ Banking Group, Australia - 2010
-* Technical Author, NorthgateArinso, United Kingdom - 2008-2010
-* Technical Author, Radiodetection Ltd, United Kingdom - 2007-2008
-* Technical Writer, Rutledge Engineering, Australia - 2006-2007
-* Editorial Assistant, John Wiley and Sons, Australia - 2005-2006
+* Technical Writer, ANZ Banking Group, Australia
+* Technical Author, NorthgateArinso, United Kingdom
+* Technical Author, Radiodetection Ltd, United Kingdom
+* Technical Writer, Rutledge Engineering, Australia
+* Editorial Assistant, John Wiley and Sons, Australia
 
 ### Volunteer work
 
@@ -90,9 +90,9 @@ Wrote, edited and produced responses to tender for the Infrastructure ANZ busine
 
 ## Education
 
-* The University of Melbourne, Australia -- Master of Arts (M.A.), 2004-2005
-* Institute of Management, Australia -- Diploma of Project Management, 2011-2012
-* The University of Melbourne, Australia -- Bachelor of Arts with Hons, 1998-2002
+* Diploma of Project Management, Institute of Management, Australia.
+* Master of Arts (M.A.), The University of Melbourne, Australia.
+* Bachelor of Arts (Hons.), The University of Melbourne, Australia
 
 ## Technical skills
 
