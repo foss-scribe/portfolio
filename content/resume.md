@@ -9,23 +9,30 @@ author = "Chris Gardiner-Bill"
 
 ## Profile
 
-A senior technical writer and trainer with an exceptional blend of documentation and technical abilities. Significant experience producing high-quality documentation and training material for technical, business and generalist audiences across APAC and the EU. Broad industry participation including manufacturing, banking and financial services, engineering services, software development, sports tech, analytics and publishing sectors. A specialist in *docs as code* using Git, Markdown, AsciiDoc, static site generators, and CI/CD to automate and rapidly publish docs to market at scale, while minimising the costs of production and improving quality.
+A senior technical writer and trainer with an exceptional blend of documentation and technical abilities. Significant experience producing high-quality documentation and training material for technical, business and generalist audiences across APAC and the EU.
+
+Broad industry participation including manufacturing, banking and financial services, engineering services, software development, sports tech, analytics and publishing sectors. A specialist in *docs as code* using Git, Markdown, AsciiDoc, static site generators, and CI/CD to automate and rapidly publish docs to market at scale, while minimising the costs of production and improving quality.
 
 ## Key skills
 
-Technical Documentation, Technical Writing, Editing, Docs as Code, Training, Instructional Design, Proposal Writing, Collaboration Tools (JIRA, Confluence, Slack), Mentoring, Problem Solving, Automation, API Testing, Project Management, Agile, Scrum, CI/CD
+`Technical Documentation` · `Technical Writing` · `Editing` · `Docs as Code` · `Training` · `Instructional Design` · `Proposal Writing` · `Collaboration Tools (JIRA, Confluence, Slack)` · `Problem Solving` · `Automation` · `API Testing` · `Project Management` · `Agile` · `Scrum` · `CI/CD`
 
 ## Professional Experience
 
 ### Technical Writer, Specialized Bicycle Components, 2020-2023
 
-As Technical Document Writer, I worked within Specialized's Global Technology Team, providing technical writing, DevOps and customer API support. I worked daily with engineers, product managers, customer support, and third-party developers.
+Documented and published an extensive suite of API documentation using Markdown and MkDocs.
 
-My primary responsibility was to write, edit, maintain and deploy an extensive suite of API documentation, including Zone 5 Cloud/Today's Plan, Bike Registration Service, Bike Settings Service, Events Service, Point of Sale Service, and the Identity Service for deployment into the People's Republic of China. As the position was greenfield, I developed a first-class technical publishing system using Markdown, MkDocs, GIT, and an automated CI/CD publishing process powered by Python and Bash with deployment to Amazon Web Services (AWS).
+* Worked with, and provided technical support to customers, customer support personnel, subject matter experts, and developers
+* Provided operational, testing, debugging, and documentation support to DevOps and engineering teams across Specialized teams across the globe.
 
-I supported Today's Plan's customers daily, including elite national cycling teams, coaches and training companies. I consulted with and assisted their technical and non-technical personnel in building API integrations. Part of this support included writing integration code in Python, JavaScript, PHP (WordPress plugin), and Shopify (HTML, Liquid and JavaScript), which they could drop into their systems.
+#### Achievements:
 
-Additionally, I supported Specialized engineering teams through API testing and developing test suites in Postman. I also provided ongoing operational assistance to Specialized's DevOps team, particularly for access management and roles assignment across Specialized's engineering teams.
+* Greenfield position - created an extensive documentation suite for 6 API services including Zone 5 Cloud/Today's Plan, Bike Registration and Turbo Settings Services, Events Service, Point of Sale Service (Oracle bridge) and Identity Service (for Chinese deployment rollout)
+* Developed an automated technical publishing system, optimised for Specialized's AngularJS-based portal, built to host current and future API documentation suites.
+* Developed Python utility to convert OpenAPI swaggers files to MkDocs compatible Markdown, significantly reducing time to market.
+* Developed bespoke API integration solutions for elite coaching businesses including Purple Patch Fitness, Dylan Johnson Training, Brownlee Brothers, Guided Heroes, and the German National Cycling Team (Bora Hansgrohe).
+* Developed Postman test collections containing over a 1000 endpoints, which the DevOps team adopted for API deployment testing.
 
 #### Skills demonstrated in this role
 
@@ -34,11 +41,21 @@ Additionally, I supported Specialized engineering teams through API testing and 
 
 ### Technical Writer and Product Trainer, Equifax Australia, 2014-2020
 
-At Equifax, I managed and developed product documentation, release notes and training material for the DecisionPoint 3 credit decisioning platform.
+Developed product documentation, release notes and training material for the DecisionPoint 3 credit decisioning platform.
 
-I worked closely with business analysts, Java developers, delivery specialists and consultants, and project and product managers. I also worked directly with clients to tailor training for their business and technical needs. I delivered on-site and remote training for DecisionPoint 3 Studio, Business Service Manager and Case Manager.
+* Worked with customers to tailor training material according to business requirements.
+* Delivered on-site and remote product training to customer technical and subject matter experts.
+* Worked with product owners, developers, business analysts, and subject matter experts.
+* Supported Delivery team, client solution consultants, and customer personnel.
 
-As part of my role, I implemented an open-source documentation and publishing platform that was fully automated and under version control using Linux, GIT, Ruby and AsciiDoc.
+
+#### Achievements
+
+* Developed an automated, single-source publishing system using GIT, AsciiDoctor and PrinceXML to produce, update and rebrand technical manuals and training material at scale, rapidly.
+* Automated JIRA (team's source of truth) using Python to build and deploy release notes.
+* Single-handedly managed a suite of 1000s of technical documents from a single Git repository, eliminating the need for a team of writers.
+* Developed a customer training programme delivered to clients across Australia including ANZ, Ubank, MeBank, Toyota, Nissan, Bank West, and MyState Bank
+* Rebranded the entire documentation suite (twice) in under an hour using CSS.
 
 #### Skills demonstrated in this role
 
@@ -47,9 +64,13 @@ As part of my role, I implemented an open-source documentation and publishing pl
 
 ### Technical Writer, Broadspectrum, 2010-2014
 
-At Broadspectrum (formerly Transfield Services), I worked as a technical writer and editor for the Infrastructure ANZ business, tasked with writing responses to tenders. I acted as lead writer and editor on several successful tenders, including SP AusNet Project Alpha, Gippsland Water M&E, and the Northern Victorian Irrigation Project.
+Wrote, edited and produced responses to tender for the Infrastructure ANZ business covering Water and Electrical industries. Worked with subject matter experts, engineers, proposal managements, and graphic designers.
 
-I was also involved in several innovative and improvement projects designed to improve business efficiency and the quality of Broadspectrum's tender responses.
+#### Achievements
+
+* Lead writer and editor of successful tenders including, SP AusNet Project Alpha, Gippsland Water M&E, and the Northern Victorian Irrigation Project.
+* Developed automated Word templates (using VBA) to improve efficiency and consistency of tender documents.
+* Wrote a library of content as part of the Proposals Central initiative, enabling project teams to respond to tenders for smaller projects cost effectively and rapidly.
 
 #### Skills demonstrated in this role
 
@@ -73,15 +94,15 @@ I was also involved in several innovative and improvement projects designed to i
 * Institute of Management, Australia -- Diploma of Project Management, 2011-2012
 * The University of Melbourne, Australia -- Bachelor of Arts with Hons, 1998-2002
 
-## Skills
+## Technical skills
 
 * Technical documentation, API and software documentation, docs as code
 * Product training, instructional design, proposal writing
-* Markdown, MkDocs, Asciidoc, Asciidoctor
+* Markdown, MkDocs, Asciidoc, Asciidoctor, YAML
 * Python, JavaScript, JSON, VueJS, PHP, HTML/CSS, Bash
 * WordPress, WordPress Plugin development, Ghost, Static Site Generators (Hugo, Gatsby, Pelican, Jekyll)
-* DevOps, AWS, Git, CI/CD, REST API testing, Postman, MySQL, SQLite, Linux
-* VS Code, Office 365, Adobe Creative Suite, Affinity Suite
+* DevOps, AWS, Git, CI/CD, REST API testing, Postman, Databases (MySQL, MongoDB), Linux
+* VS Code, Office 365, Google Docs, Adobe Creative Suite, Affinity Suite
 
 ## Personal projects
 
