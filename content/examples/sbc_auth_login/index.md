@@ -15,7 +15,7 @@ Login or register a new user by providing a choice of authentication methods, as
 
 Note, if `tn` and `code` is passed, and no user matches the presented phone number and code, the system automatically creates a new user account registered for the provided phone number.
 
-If the phone number exists in the system, and the user logs in with their `tn`, `code`, `unionId` and `unionCode`, they are logged in and their `unionId` is associated with the their account. If the phone number does not exist in the system, a new account is registered with the phone number and `unionId` set.
+If the phone number exists in the system, and the user logs in with their `tn`, `code`, `unionId` and `unionCode`, they are logged in and their `unionId` is associated with their account. If the phone number does not exist in the system, a new account is registered with the phone number and `unionId` set.
 
 With other combinations, such as `email` and `password`, passing credentials not registered with the system results in an error. To register users with an email, use the [register endpoint](#).
 
@@ -33,9 +33,9 @@ The body accepts JSON with the fields listed in the following table.
 | `tn` | The user's fully qualified IDD phone number, for example: +8610000000000. |
 | `code` | A verification code sent upon request to the user's phone number, or WeChat callback URL. Mandatory if `tn` or `appId` is presented. |
 | `email` | The user's email address, if attempting to log in via email instead of by phone number. |
-| `password` | The user's password. Mandatory is `email` is presented. |
+| `password` | The user's password. Required when `email` is presented. |
 | `appId` | WeChat app ID. Required for [WeChat-based authenticated](../sbc_auth_we_chat/). |
-| `secret` | WeChat app secret. Required if `appId` is presented. |
+| `secret` | WeChat app secret. Required when `appId` is presented. |
 | `unionId` | The user's WeChat ID. Required for [WeChat-based authenticated](../sbc_auth_we_chat/). |
 | `unionCode` | A one-time WeChat code used to associated a WeChat ID with a Specialized account. |
 | `accept` | Optional. A list of terms and conditions to accept upon login, if required. |
@@ -225,7 +225,7 @@ In this example, the user attempted to login without including a verification co
 
 **Invalid phone number**
 
-In this example, the user attempted to pass an invalid phone number/
+In this example, the user attempted to pass an invalid phone number.
 
 ```json
 {

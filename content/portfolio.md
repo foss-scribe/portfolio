@@ -10,6 +10,8 @@ A portfolio of professional technical writing work created by Chris Gardiner-Bil
 
 ## Samples
 
+Samples of my work, listed by companies where I worked.
+
 ### Specialized Bicycle Components
 
 #### [WeChat Authentication Guide](/examples/sbc_auth_we_chat/)
@@ -35,3 +37,5 @@ A detailed guide to using the login API endpoint for Specialized's Identity Serv
     * OpenAPI JSON to MkDocs-compatible markdown convert using Python.
     * Zone5Cloud integration module created as a starter project for [Purple Patch Fitness](https://www.purplepatchfitness.com) using Python.
     * Serverless e-commerce store created for coach and YouTuber [Dylan Johnson](https://www.dylanjohnsontraining.com)
+
+### Equifax Australia
