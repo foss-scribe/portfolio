@@ -70,4 +70,4 @@ pygmentscodefencesguesssyntax = true
 [[menu.main]]
     name = "Resume (PDF)"
     weight = 5
-    url = "files/chris-gardiner-bill-resume.pdf"
+    url = "files/chris-gardiner-bill-resume-master.pdf"

@@ -36,7 +36,7 @@ Documented and published an extensive suite of API documentation using Markdown 
 
 #### Skills demonstrated in this role
 
-`AWS` · `WordPress` · `Technical Writing` · `API Documentation` · `Editing` · `Content Management` · `Testing` · `Web Development` · `Proofreading` · `Technical Documentation` · `Web Applications` · `Copy Editing` · `HTML` · `CSS` · `JavaScript` · `PHP` · `MySQL` · `Python` · `Markdown` · `Git` · `Linux`
+`AWS` · `WordPress` · `Technical Writing` · `API Documentation` · `Editing` · `Content Management` · `Testing` · `Web Development` · `Proofreading` · `Technical Documentation` · `Web Applications` · `Copy Editing` · `HTML` · `CSS` · `JavaScript` · `PHP` · `MySQL` · `Python` · `Markdown` · `Git` · `MkDocs`
 
 
 ### Technical Writer and Product Trainer, Equifax Australia, 2014-2020
@@ -117,5 +117,3 @@ Wrote, edited and produced responses to tender for the Infrastructure ANZ busine
 
 [Nexus 3](https://nexus3.games)
 :   A project to help table-top roleplayers find games. I'm the lead (and only) developer. The backend is written in Python (using FastAPI) and the front-end is an Single-Page Application written in VueJS.
-
-*[Resume available on GitHub](https://github.com/foss-scribe/resume)*
