@@ -30,7 +30,7 @@ Documented and published an extensive suite of API documentation using Markdown 
 
 * Greenfield position - created an extensive documentation suite for 6 API services including Zone 5 Cloud/Today's Plan, Bike Registration and Turbo Settings Services, Events Service, Point of Sale Service (Oracle bridge) and Identity Service (for Chinese deployment rollout)
 * Developed an automated technical publishing system, optimised for Specialized's AngularJS-based portal, built to host current and future API documentation suites.
-* Developed Python utility to convert OpenAPI swaggers files to MkDocs compatible Markdown, significantly reducing time to market.
+* Developed Python utility to convert OpenAPI (Swagger) files to MkDocs compatible Markdown, significantly reducing time to market.
 * Developed bespoke API integration solutions for elite coaching businesses including Purple Patch Fitness, Dylan Johnson Training, Brownlee Brothers, Guided Heroes, and the German National Cycling Team (Bora Hansgrohe).
 * Developed Postman test collections containing over a 1000 endpoints, which the DevOps team adopted for API deployment testing.
 
