@@ -52,18 +52,22 @@ pygmentscodefencesguesssyntax = true
 
 # Menu links
 [[menu.main]]
-  name = "Blog"
+  name = "Portfolio
   weight = 1
+  url = "portfolio/"
+[[menu.main]]
+  name = "Blog"
+  weight = 2
   url  = "posts/"
 [[menu.main]]
   name = "About"
-  weight = 2
+  weight = 3
   url = "about/"
 [[menu.main]]
   name = "Resume"
-  weight = 3
+  weight = 4
   url = "resume/"
 [[menu.main]]
     name = "Resume (PDF)"
-    weight = 4
+    weight = 5
     url = "files/chris-gardiner-bill-resume.pdf"
