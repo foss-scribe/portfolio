@@ -19,7 +19,7 @@ The body of my resume uses only headings, paragraphs, lists, and code blocks. I 
 
 Here's an excerpt of my current resume, but you can find the [full version in this portfolio's source code on GitHub](https://github.com/foss-scribe/portfolio/blob/master/content/resume.md), albeit with the front matter converted to TOML for better compatibility with Hugo.
 
-"`md
+```markdown
 ---
 Title: Chris Gardiner-Bill Resume
 Author: Chris Gardiner-Bill
@@ -64,8 +64,8 @@ However, when I make a resume for a specific job application (more on that below
 
 However, when I build the document on the command line with MultiMarkdown or Pandoc, the resulting HTML is barebones. Unless I reference a style sheet explicitly in the front-matter block, it doesn't include any styling.
 
+```yaml
 ---
-"`yaml
 Title: Chris Gardiner-Bill Resume
 Author: Chris Gardiner-Bill
 Date: 2023-01-20
@@ -75,7 +75,7 @@ css: ../styles.css #This is my stylesheet
 
 MultiMarkdown and Pandoc both accept a CSS file to style the resulting HTML. For my purposes, I required only some basic styling and layout to achieve the print-friendly design I wanted.
 
-"`css
+```css
 html {
     font-family: Optima;
     font-size: 11pt;
@@ -146,7 +146,7 @@ In my case, I use MultiMarkdown on my Mac, but Pandoc is a great alternative, an
 
 To convert the file, I run the following command:
 
-"`bash
+```bash
 $ multimarkdown /path/to/resume.md -o /path/to/output.html
 ```
 
@@ -158,7 +158,7 @@ Prince and wkhtmltopdf work similarly. Both convert HTML to PDF and use CSS's pr
 
 For my taste, I added very little to my CSS file, and while the following is Prince-specific, I think wkhtmltopdf has very similar requirements.
 
-"`css
+```css
 @media print {
     @page {
         font-family: Optima;
@@ -205,7 +205,7 @@ To make this work, I created an extensive, rambling resume with every skill, cap
 
 Then, each time I want to apply for a new job, I create a branch and customise the resume specifically for the job requirements. For example, I recently applied to Atlassian, so I made an Atlassian branch in my repository as follows:
 
-"`bash
+```bash
 $ git checkout -b atlassian
 ```
 
