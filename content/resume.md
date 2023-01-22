@@ -109,7 +109,7 @@ Wrote, edited and produced responses to tender for the Infrastructure ANZ busine
 [ChrisRosser.net](https://chrisrosser.net) 
 :   Under the *nom de plume*, Chris Rosser, I write and serialise fantasy stories to an audience of 350 subscribers
 
-[Medium](https://chrisrosser.medium.com)
+[Medium](https://technicalprose.medium.com)
 :   Also under my *nom de plume*, I blog on technical subjects that take my fancy and publish them to Medium.
 
 [Rosser's Reads](https://reads.chrisrosser.net)
