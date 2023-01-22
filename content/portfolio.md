@@ -52,9 +52,9 @@ As with all documents in this suite, the HEM guide was assembled from multiple f
 
 Under the *nom de plume*, Chris Rosser, I've published several technical articles on Medium. While informal in tone (and not rigorously edited or proof-read), they demonstrate my writing across a variety of topics and interests.
 
-* [Optimising OBS on a 2020 MacBook Pro](https://chrisrosser.medium.com/optimising-obs-on-a-2020-macbook-pro-aca7bbbe55e9)
-* [Managing storage on a cheap Linux VPS](https://chrisrosser.medium.com/managing-storage-on-a-cheap-linux-vps-f576e6ac4d3c)
-* [Using SOX on macOS](https://chrisrosser.medium.com/using-sox-on-macos-48f25014d1e3)
-* [My favourite markdown tools](https://chrisrosser.medium.com/my-favourite-markdown-tools-fc1cdc537e67)
-* [How to seek and destroy filter words with Scrivener](https://chrisrosser.medium.com/how-to-seek-and-destroy-filter-words-with-scrivener-a968dd8cf914)
-* [How to host multiple local websites with macOS Big Sur](https://chrisrosser.medium.com/how-to-host-multiple-local-websites-with-macos-big-sur-72d947f3e97c)
+* [Optimising OBS on a 2020 MacBook Pro](https://technicalprose.medium.com/optimising-obs-on-a-2020-macbook-pro-aca7bbbe55e9)
+* [Managing storage on a cheap Linux VPS](https://technicalprose.medium.com/managing-storage-on-a-cheap-linux-vps-f576e6ac4d3c)
+* [Using SOX on macOS](https://technicalprose.medium.com/using-sox-on-macos-48f25014d1e3)
+* [My favourite markdown tools](https://technicalprose.medium.com/my-favourite-markdown-tools-fc1cdc537e67)
+* [How to seek and destroy filter words with Scrivener](https://technicalprose.medium.com/how-to-seek-and-destroy-filter-words-with-scrivener-a968dd8cf914)
+* [How to host multiple local websites with macOS Big Sur](https://technicalprose.medium.com/how-to-host-multiple-local-websites-with-macos-big-sur-72d947f3e97c)
