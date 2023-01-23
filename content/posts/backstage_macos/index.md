@@ -234,8 +234,8 @@ This is a basic example of documentation.
 Your repo's directory structure should look something like this:
 
 ```md
-- docs/
-	index.md
+docs/
+	- index.md
 catalogue-info.yaml
 index.js
 mkdocs.yml

@@ -50,8 +50,9 @@ As with all documents in this suite, the HEM guide was assembled from multiple f
 
 ### Blog posts
 
-Under the *nom de plume*, Chris Rosser, I've published several technical articles on Medium. While informal in tone (and not rigorously edited or proof-read), they demonstrate my writing across a variety of topics and interests.
+I regularly publish technical articles on Medium and this site. While informal in tone (and not rigorously edited or proof-read), they demonstrate my writing across a variety of topics and interests.
 
+* [Installing backstage.io on macOS (for technical writers)](https://chris.gardiner-bill.com/posts/backstage_macos/)
 * [Optimising OBS on a 2020 MacBook Pro](https://technicalprose.medium.com/optimising-obs-on-a-2020-macbook-pro-aca7bbbe55e9)
 * [Managing storage on a cheap Linux VPS](https://technicalprose.medium.com/managing-storage-on-a-cheap-linux-vps-f576e6ac4d3c)
 * [Using SOX on macOS](https://technicalprose.medium.com/using-sox-on-macos-48f25014d1e3)
