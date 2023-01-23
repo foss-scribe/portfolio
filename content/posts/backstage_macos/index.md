@@ -13,7 +13,7 @@ Naturally, I was intrigued, particularly as Backstage uses a documentation tool 
 
 So, with time on my hands and the pressures of finding a job providing motivation, I installed it on my MacBook Pro, aiming to play with its documentation features and learn how the platform works in general.
 
-While the [Backstage docs]((https://backstage.io/docs/overview/what-is-backstage) are good, they don't include an end-to-end process for installing on macOS, so I decided to write one for future reference, and for anyone else who might find it helpful.
+While the [Backstage docs](https://backstage.io/docs/overview/what-is-backstage) are good, they don't include an end-to-end process for installing on macOS, so I decided to write one for future reference, and for anyone else who might find it helpful.
 
 In summary, the steps are:
 
