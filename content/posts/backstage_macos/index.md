@@ -1,4 +1,11 @@
-# Installing backstage.io on macOS (for technical writers)
++++
+title = "Installing backstage.io on macOS (for technical writers)"
+date = "2023-01-23"
+description = "A tutorial on how to install Backstage on macOS and start writing technical docs"
+author = "Chris Gardiner-Bill"
+tags  = ["tutorial", "technical writing", "Backstage", "MkDocs"]
++++
+
 
 A job I recently applied to requires a candidate with experience writing docs for Backstage, Spotify's open-source platform for creating developer portals. Backstage's core TechDocs plugin uses MkDocs for content and YAML for configuration. While I'm very comfortable with MkDocs and YAML, my only experience with Backstage was watching introductory YouTube videos after a former colleague suggested we could use it at Specialized.
 
