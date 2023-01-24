@@ -1,0 +1,3 @@
+[submodule "themes/hugo-coder-foss-scribe"]
+	path = themes/hugo-coder-foss-scribe
+	url = git@github.com:foss-scribe/hugo-coder.git
