@@ -1,6 +1,6 @@
 baseURL = 'https://chris.gardiner-bill.com'
 title = 'CGB'
-theme = "hugo-coder-foss-scribe"
+theme = "hugo-coder"
 languageCode = 'en_gb'
 defaultcontentlanguage = "en"
 
