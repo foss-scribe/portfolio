@@ -94,6 +94,9 @@ Finally, create a default `postgres` user.
 
 ```bash
 $ /usr/local/Cellar/postgresql/<version>/bin/createuser -s postgres
+
+# for example 
+# $ /usr/local/Cellar/postgresql@14/14.6/bin/createuser -s postgres
 ```
 
 ### Running Postgres
@@ -137,8 +140,8 @@ Backstage is installed using `npx`, which is included with Node.
 
 Navigate to the directory where you want to install Backstage and enter the following command.
 
-"`bash
-$ @backstage/create-app@latest
+```bash
+$ npx @backstage/create-app@latest
 ```
 
 During installation, you'll be prompted to name your Backstage app and the directory in which it's contained.
