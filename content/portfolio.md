@@ -21,7 +21,7 @@ A guide on how to authenticate with Specialized's Identity Service using WeChat.
 
 A detailed guide to using the login API endpoint for Specialized's Identity Service. Originally included in a page documenting all authenticated-related endpoints in the Identity Service. The source was written as a standalone, re-usable document that could be called using a Jinja2 include directive. This document was of an MkDocs project and deployed to the Specialized Admin Portal. All endpoint documentation in the suite followed this pattern.
 
-*Note: this document has been altered from the origin (MkDocs Python-flavoured Markdown) for compatibility with Hugo. Sections have been converted from tabs to headings.*
+*Note: this document has been altered from the original format (MkDocs Python-flavoured Markdown) for compatibility with Hugo. Sections have been converted from tabs to headings.*
 
 `Markdown` `MkDocs` `API` `Authentication` `REST` `cURL` `JSON`
 

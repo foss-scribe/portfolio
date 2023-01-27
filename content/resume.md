@@ -110,10 +110,10 @@ Wrote, edited and produced responses to tender for the Infrastructure ANZ busine
 :   Under the *nom de plume*, Chris Rosser, I write and serialise fantasy stories to an audience of 350 subscribers
 
 [Medium](https://technicalprose.medium.com)
-:   Also under my *nom de plume*, I blog on technical subjects that take my fancy and publish them to Medium.
+:   An occasional blog on technical subjects that take my fancy and publish them to Medium.
 
 [Rosser's Reads](https://reads.chrisrosser.net)
-:   Bookshelf app to track and display books I've read, want to read and  currently reading, created in VueJS and deployed to Netlify. [Source code available on GitHub](https://github.com/foss-scribe/rossers-reads).
+:   Bookshelf app to track and display books I've read, want to read and  currently reading, created in [VueJS V3](https://vuejs.org) and deployed to Netlify. [Source code available on GitHub](https://github.com/foss-scribe/rossers-reads).
 
 [Nexus 3](https://nexus3.games)
 :   A project to help table-top roleplayers find games. I'm the lead (and only) developer. The backend is written in Python (using FastAPI) and the front-end is an Single-Page Application written in VueJS.
