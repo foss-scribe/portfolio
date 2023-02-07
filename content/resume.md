@@ -64,7 +64,7 @@ Developed product documentation, release notes and training material for the Dec
 
 ### Technical Writer, Broadspectrum, 2010-2014
 
-Wrote, edited and produced responses to tender for the Infrastructure ANZ business covering Water and Electrical industries. Worked with subject matter experts, engineers, proposal managements, and graphic designers.
+Wrote, edited and produced responses to tender for the Infrastructure ANZ business covering Water and Electrical industries. Worked with subject matter experts, engineers, proposal managers, and graphic designers.
 
 #### Achievements
 
