@@ -61,6 +61,7 @@ Brief: The task was to create a tutorial that explains how to:
 
 The complete exercise is [available on my GitHub account](https://github.com/foss-scribe/swagger-petstore-api-guide-tutorial).
 
+`Markdown` `JavaScript` `API Documentation`
 
 ### Blog posts
 
