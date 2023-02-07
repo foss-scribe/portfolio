@@ -50,7 +50,7 @@ As with all documents in this suite, the HEM guide was assembled from multiple f
 
 ### Writing/Recruitment tests
 
-Writing exercises undertaken as part of recruitment processes.
+Writing exercises undertaken as part of job applications.
 
 #### [Swagger Pet Store API](/examples/swagger_petstore/)
 
