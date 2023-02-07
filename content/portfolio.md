@@ -48,6 +48,20 @@ As with all documents in this suite, the HEM guide was assembled from multiple f
 `Asciidoctor` `User Guide` `PrinceXML`
 
 
+### Writing/Recruitment tests
+
+Writing exercises undertaken as part of recruitment processes.
+
+#### [Swagger Pet Store API](/examples/swagger_petstore/)
+
+Brief: The task was to create a tutorial that explains how to: 
+
+* Fetch a list of pets from the Swagger Petstore API - https://petstore.swagger.io/. 
+* Render the results in a web page. 
+
+The complete exercise is [available on my GitHub account](https://github.com/foss-scribe/swagger-petstore-api-guide-tutorial).
+
+
 ### Blog posts
 
 I regularly publish technical articles on Medium and this site. While informal in tone (and not rigorously edited or proof-read), they demonstrate my writing across a variety of topics and interests.
