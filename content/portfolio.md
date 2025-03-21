@@ -9,11 +9,25 @@ Included in this portfolio is a broad collection of samples with a description o
 
 This page is work-in-progress and subject to change.
 
+### Canva
+
+#### [Autofill guide](https://www.canva.dev/docs/connect/autofill-guide/)
+
+A guide on how use Canva Autofill API to inject data into dynamic designs, created during my secondment to the Ecosystem team as part of the Connect GA project.
+
+`Markdown` `NextJS` `API`
+
+#### [Return navigation guide](https://www.canva.dev/docs/connect/return-navigation-guide/)
+
+A guide on using Canva's return navigation flow to let users move between third-party integrations and Canva's editor, created during my secondment to the Ecosystem team as part of the Connect GA project.
+
+`Markdown` `NextJS` `API` `Integration`
+
 ### Specialized Bicycle Components
 
 #### [WeChat Authentication Guide](/examples/sbc_auth_we_chat/)
 
-A guide on how to authenticate with Specialized's Identity Service using WeChat. To write this guide, I worked closely with the java developer responsible for creating the workflow, as well as assisting with testing using Postman and WeChat on Android. This guide was included as part of a catalogue of recipes contained within an MkDocs project and deployed to the Specialized Admin Portal.
+A guide on how to authenticate with Specialized's Identity Service using WeChat. To write this guide, I worked closely with the Java developer responsible for creating the workflow, as well as assisting with testing using Postman and WeChat on Android. This guide was included as part of a catalogue of recipes contained within an MkDocs project and deployed to the Specialized Admin Portal.
 
 `Markdown` `MkDocs` `WeChat` `Authentication`
 

@@ -19,6 +19,29 @@ Broad industry participation including manufacturing, banking and financial serv
 
 ## Professional Experience
 
+### Senior Technical Writer, Canva, 2023-2025
+
+At Canva, I worked as a Senior Technical Content Writer and Technical Writing Partner for Canva's internal teams and groups, including:
+
+* Machine Learning (2023-24)
+* Backend Foundations (2023-24)
+* QA (2023-24)
+* Design Experience (2024-25)
+* Ecosystem (Apps and API) (2025 and onwards)
+* Technical editors (2023-25)
+
+### Achievements:
+
+* Wrote and developed Canva's AI documentation hub for engineers and non-engineers, at the critical point when Canva was pivoting to AI.
+* Planned, wrote and developed Canva's onboarding program for AI and ML engineers, working closely with ML and education specialists.
+* Documented Canva's early technical development and wrote *10 years of Canva engineering* in collaborate with former CTO, David Hearnden.
+* Wrote and edited numerous Engineering Handbook articles.
+* Wrote Canva's [Autofill](https://www.canva.dev/docs/connect/autofill-guide/) and[ Return navigation guide](https://www.canva.dev/docs/connect/return-navigation-guide/) for the Connect API documentation.
+
+#### Skills demonstrated in this role
+
+`Technical Writing` · `API Documentation` · `Editing` · `Testing` · `AI and ML` · `Python` · `TypeScript` · `Markdown` · `Git` · `MySQL` · `NextJS` · `React` · `Instructional Design`
+
 ### Technical Writer, Specialized Bicycle Components, 2020-2023
 
 Documented and published an extensive suite of API documentation using Markdown and MkDocs.
