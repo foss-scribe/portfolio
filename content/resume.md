@@ -34,7 +34,7 @@ At Canva, I worked as a Senior Technical Content Writer and Technical Writing Pa
 
 * Wrote and developed Canva's AI documentation hub for engineers and non-engineers, at the critical point when Canva was pivoting to AI.
 * Planned, wrote and developed Canva's onboarding program for AI and ML engineers, working closely with ML and education specialists.
-* Documented Canva's early technical development and wrote *10 years of Canva engineering* in collaborate with former CTO, David Hearnden.
+* Documented Canva's early technical development and wrote *10 years of Canva engineering* in collaboratin with former CTO, [David Hearnden](https://www.linkedin.com/in/david-hearnden-5550541/).
 * Wrote and edited numerous Engineering Handbook articles.
 * Wrote Canva's [Autofill](https://www.canva.dev/docs/connect/autofill-guide/) and[ Return navigation guide](https://www.canva.dev/docs/connect/return-navigation-guide/) for the Connect API documentation.
 
