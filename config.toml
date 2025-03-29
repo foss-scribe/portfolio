@@ -11,7 +11,7 @@ pygmentscodefencesguesssyntax = true
 
 [params]
   author = "Chris Gardiner-Bill"
-  info = "Technical Writer"
+  info = "Senior Technical Writer"
   description = "Chris Gardiner-Bill's professional website and portfolio"
   keywords = "blog,developer,professional,technical writer,docs as code"
   #avatarurl = "images/avatar.jpg"
