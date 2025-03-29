@@ -13,7 +13,7 @@ pygmentscodefencesguesssyntax = true
   author = "Chris Gardiner-Bill"
   info = "Senior Technical Writer"
   description = "Professional website and portfolio of Senior Technical Writer and Trainer, Chris Gardiner-Bill."
-  keywords = "blog,developer,professional,technical writer,technical trainer,product trainer,docs as code"
+  keywords = "blog,developer,professional,technical writer,technical trainer,technical author,product trainer,docs as code,documentation,editor, api documentation"
   #avatarurl = "images/avatar.jpg"
   gravatar = "cbill.uk@googlemail.com"
 
