@@ -9,9 +9,7 @@ author = "Chris Gardiner-Bill"
 
 ## Profile
 
-A senior technical writer and trainer with an exceptional blend of documentation and technical abilities. Significant experience producing high-quality documentation and training material for technical, business and generalist audiences across APAC and the EU.
-
-Broad industry participation including manufacturing, banking and financial services, engineering services, software development, sports tech, analytics and publishing sectors. A specialist in *docs as code* using Git, Markdown, AsciiDoc, static site generators, and CI/CD to automate and rapidly publish docs to market at scale, while minimising the costs of production and improving quality.
+A senior technical writer and trainer with two decades of experience delivering high-quality documentation and training materials for technical, business, and generalist audiences. Expertise in docs-as-code workflows, utilising tools like Git, Markdown, and CI/CD pipelines to streamline publishing, enhance quality, and reduce costs. Proven ability to collaborate with subject matter experts, stakeholders and end user, ensuring seamless communication while delivering the best outcomes. Broad industry experience including software development, financial services, engineering, and analytics.
 
 ## Key skills
 
@@ -21,22 +19,20 @@ Broad industry participation including manufacturing, banking and financial serv
 
 ### Senior Technical Writer, Canva, 2023-2025
 
-At Canva, I worked as a Senior Technical Content Writer and Technical Writing Partner for Canva's internal teams and groups, including:
+Collaborated with engineering, design, and QA teams to produce high-quality internal and external documentation. Partnered with cross-functional teams to streamline documentation processes and create scalable resources for a rapidly growing organization.
 
-* Machine Learning (2023-24)
-* Backend Foundations (2023-24)
-* QA (2023-24)
-* Design Experience (2024-25)
-* Ecosystem (Apps and API) (2025 and onwards)
-* Technical editors (2023-25)
+#### Key Responsibilities:
 
-### Achievements:
+* Developed Canva's AI documentation hub for engineers and non-engineers during a pivotal shift towards AI-focused initiatives.
+* Planned, wrote, and implemented onboarding programs for AI/ML engineers, partnering with subject matter experts and education specialists.
+* Contributed to internal resources including Canva's Engineering Handbook, Galaxy (Backstage), Confluence and blog posts.
+* Authored key API documentation, such as the [Autofill Guide](https://www.canva.dev/docs/connect/autofill-guide/) and [Return Navigation Guide](https://www.canva.dev/docs/connect/return-navigation-guide/).
 
-* Wrote and developed Canva's AI documentation hub for engineers and non-engineers, at the critical point when Canva was pivoting to AI.
-* Planned, wrote and developed Canva's onboarding program for AI and ML engineers, working closely with ML and education specialists.
-* Documented Canva's early technical development and wrote *10 years of Canva engineering* in collaboration with former CTO, [David Hearnden](https://www.linkedin.com/in/david-hearnden-5550541/).
-* Wrote and edited numerous Engineering Handbook articles.
-* Wrote Canva's [Autofill](https://www.canva.dev/docs/connect/autofill-guide/) and[ Return navigation guide](https://www.canva.dev/docs/connect/return-navigation-guide/) for the Connect API documentation.
+#### Key Achievements:
+
+* Reduced onboarding time for AI/ML engineers through tailored training programs.
+* Significantly improved access to AI knowledge resources, enabling faster adoption across teams.
+* Enhanced documentation visibility and usability, directly supporting Canva’s developer community.
 
 #### Skills demonstrated in this role
 
