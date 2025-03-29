@@ -1,5 +1,5 @@
 baseURL = 'https://chris.gardiner-bill.com'
-title = 'CGB'
+title = 'Chris Gardiner-Bill'
 theme = "hugo-coder"
 languageCode = 'en_gb'
 defaultcontentlanguage = "en"
@@ -12,8 +12,8 @@ pygmentscodefencesguesssyntax = true
 [params]
   author = "Chris Gardiner-Bill"
   info = "Senior Technical Writer"
-  description = "Chris Gardiner-Bill's professional website and portfolio"
-  keywords = "blog,developer,professional,technical writer,docs as code"
+  description = "Professional website and portfolio of Senior Technical Writer and Trainer, Chris Gardiner-Bill."
+  keywords = "blog,developer,professional,technical writer,technical trainer,product trainer,docs as code"
   #avatarurl = "images/avatar.jpg"
   gravatar = "cbill.uk@googlemail.com"
 
