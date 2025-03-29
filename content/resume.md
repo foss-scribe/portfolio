@@ -1,7 +1,7 @@
 +++
 title = "Resume - Chris Gardiner-Bill"
 description = "Professional resume of Chris Gardiner Bill"
-date = "2023-01-01"
+date = "2025-03-29"
 author = "Chris Gardiner-Bill"
 +++
 
