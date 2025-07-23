@@ -1,21 +1,37 @@
 +++
 title = "Resume - Chris Gardiner-Bill"
 description = "Professional resume of Chris Gardiner Bill"
-date = "2025-03-29"
+date = "2025-07-23"
 author = "Chris Gardiner-Bill"
 +++
 
-*Senior technical writer specialising in docs as code*
+*A versatile technical writer, full-stack developer and business analyst*
 
 ## Profile
 
-A senior technical writer and trainer with two decades of experience delivering high-quality documentation and training materials for technical, business, and generalist audiences. Expertise in docs-as-code workflows, utilising tools like Git, Markdown, and CI/CD pipelines to streamline publishing, enhance quality, and reduce costs. Proven ability to collaborate with subject matter experts, stakeholders and end user, ensuring seamless communication while delivering the best outcomes. Broad industry experience including software development, financial services, engineering, and analytics.
+A highy versatile tech professional with two decades of experience delivering high-quality documentation and training materials for technical, business, and generalist audiences. An expert in docs-as-code workflows, utilising tools like Git, Markdown (and AsciiDoc), and CI/CD pipelines to streamline publishing, enhance quality, and reduce costs. Proven ability to collaborate with subject matter experts, stakeholders and end users, ensuring seamless communication while delivering the best outcomes. Broad industry experience including SaaS, software development, financial services, engineering, and analytics.
 
 ## Key skills
 
-`Technical Documentation` · `Technical Writing` · `Editing` · `Docs as Code` · `Training` · `Instructional Design` · `Proposal Writing` · `Collaboration Tools (JIRA, Confluence, Slack)` · `Problem Solving` · `Automation` · `API Testing` · `Project Management` · `Agile` · `Scrum` · `CI/CD`
+`Technical Documentation` · `Technical Writing` · `Editing` · `Docs as Code` · `Training` · `Instructional Design` · `Proposal Writing` · `Collaboration Tools (JIRA, Confluence, Trello, Slack)` · `Problem Solving` · `Automation` · `API Testing` · `Project Management` · `Agile` · `Scrum` · `CI/CD` · `Python` · `JavaScript`
 
-## Professional Experience
+## Professional Experience 
+
+### Full-Stack Developer, CGB Web and Software Development, 2023-2025
+
+I run an independent web and software development business that provides the following services:
+
+* Front-end development and design
+* Back-end development
+* Front/back-end hosting (VPS, Cloud, Edge)
+* WordPress hosting and plugin development
+* Automation utilities for business
+* Custom API integrations (payment providers, Pipedream, Google Sheets)
+
+
+#### Skills demonstrated in this role
+
+`Python` · `FastAPI` · `Docker` · `CI/CD` · `WordPress` · `NodeJS` · `VueJS` · `Postman` · `MySQL` · `SQLite` · `AWS` · `Web Design` · `Web Hosting`
 
 ### Senior Technical Writer, Canva, 2023-2025
 
@@ -38,6 +54,22 @@ Collaborated with engineering, design, and QA teams to produce high-quality inte
 
 `Technical Writing` · `API Documentation` · `Editing` · `Testing` · `AI and ML` · `Python` · `TypeScript` · `Markdown` · `Git` · `MySQL` · `NextJS` · `React` · `Instructional Design`
 
+
+### Co-founder and Lead Developer, Nexus Pty Lrd, Australia 2022-2023
+
+I was the co-founder and lead developer of Nexus3 Games, a startup company making a SaaS product to help people find and manage in-person and remote tabletop games.
+
+#### Key Responsibilities
+
+* Architected and developed the product's backend API using Python and FastAPI
+* CI/CD backend deployment to a Docker container running on a Linux VPS
+* Designed and developed the front-end (Node, VueJS, Axios) deployed on a global CDN (Netlify)
+* Developed and maintained an extensive Postman collection to test the API
+
+#### Skills demonstrated in this role
+
+`AWS` · `Python` · `FastAPI` · `Docker` · `CI/CD` · `MongoDB` · `NodeJS` · `VueJS` · `Postman`
+
 ### Technical Writer, Specialized Bicycle Components, 2020-2023
 
 Documented and published an extensive suite of API documentation using Markdown and MkDocs.
@@ -56,6 +88,7 @@ Documented and published an extensive suite of API documentation using Markdown 
 #### Skills demonstrated in this role
 
 `AWS` · `WordPress` · `Technical Writing` · `API Documentation` · `Editing` · `Content Management` · `Testing` · `Web Development` · `Proofreading` · `Technical Documentation` · `Web Applications` · `Copy Editing` · `HTML` · `CSS` · `JavaScript` · `PHP` · `MySQL` · `Python` · `Markdown` · `Git` · `MkDocs`
+
 
 
 ### Technical Writer and Product Trainer, Equifax Australia, 2014-2020
@@ -95,7 +128,7 @@ Wrote, edited and produced responses to tender for the Infrastructure ANZ busine
 
 `Technical Writing` · `Project Management` · `Proposal Writing` · `Editing` · `Content Management` · `Proofreading` · `Technical Documentation` · `Marketing Communications` · `Copy Editing` · `Visio` · `Microsoft Word` · `MS Project` · `Microsoft Office` · `VBA`
 
-### Prior roles
+### Prior roles (2004-2010)
 
 * Technical Writer, ANZ Banking Group, Australia
 * Technical Author, NorthgateArinso, United Kingdom
@@ -105,10 +138,13 @@ Wrote, edited and produced responses to tender for the Infrastructure ANZ busine
 
 ### Volunteer work
 
+* Trainee Taekwondo Instructor, Martial Arts Training Company (MTC Ringwood), Since 2025
+* Web admin and content writer, Martial Arts Training Company (MTC Ringwood), Since 2023
 * Information Technology Officer, Tarralla Kindergarten, 2021-2022
 
 ## Education
 
+* Graduate Diploma of Information Technology, Queensland University of Technology, Australia
 * Diploma of Project Management, Institute of Management, Australia.
 * Master of Arts (M.A.), The University of Melbourne, Australia.
 * Bachelor of Arts (Hons.), The University of Melbourne, Australia
@@ -123,16 +159,3 @@ Wrote, edited and produced responses to tender for the Infrastructure ANZ busine
 * DevOps, AWS, Git, CI/CD, REST API testing, Postman, Databases (MySQL, MongoDB), Linux
 * VS Code, Office 365, Google Docs, Adobe Creative Suite, Affinity Suite
 
-## Personal projects
-
-[ChrisRosser.net](https://chrisrosser.net) 
-:   Under the *nom de plume*, Chris Rosser, I write and serialise fantasy stories to an audience of 350 subscribers
-
-[Medium](https://technicalprose.medium.com)
-:   An occasional blog on technical subjects that take my fancy and publish them to Medium.
-
-[Rosser's Reads](https://reads.chrisrosser.net)
-:   Bookshelf app to track and display books I've read, want to read and  currently reading, created in [VueJS V3](https://vuejs.org) and deployed to Netlify. [Source code available on GitHub](https://github.com/foss-scribe/rossers-reads).
-
-[Nexus 3](https://nexus3.games)
-:   A project to help table-top roleplayers find games. I'm the lead (and only) developer. The backend is written in Python (using FastAPI) and the front-end is an Single-Page Application written in VueJS.
