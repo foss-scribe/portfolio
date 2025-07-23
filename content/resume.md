@@ -106,7 +106,7 @@ Developed product documentation, release notes and training material for the Dec
 * Developed an automated, single-source publishing system using GIT, AsciiDoctor and PrinceXML to produce, update and rebrand technical manuals and training material at scale, rapidly.
 * Automated JIRA (team's source of truth) using Python to build and deploy release notes.
 * Single-handedly managed a suite of 1000s of technical documents from a single Git repository, eliminating the need for a team of writers.
-* Developed a customer training programme delivered to clients across Australia including ANZ, Ubank, MeBank, Toyota, Nissan, Bank West, and MyState Bank
+* Developed a product training programme delivered to clients across Australia including ANZ, Ubank, MeBank, Toyota, Nissan, Bank West, and MyState Bank
 * Rebranded the entire documentation suite (twice) in under an hour using CSS.
 
 #### Skills demonstrated in this role
@@ -155,7 +155,7 @@ Wrote, edited and produced responses to tender for the Infrastructure ANZ busine
 * Product training, instructional design, proposal writing
 * Markdown, MkDocs, Asciidoc, Asciidoctor, YAML
 * Python, JavaScript, JSON, VueJS, PHP, HTML/CSS, Bash
-* WordPress, WordPress Plugin development, Ghost, Static Site Generators (Hugo, Gatsby, Pelican, Jekyll)
-* DevOps, AWS, Git, CI/CD, REST API testing, Postman, Databases (MySQL, MongoDB), Linux
-* VS Code, Office 365, Google Docs, Adobe Creative Suite, Affinity Suite
+* WordPress, WordPress Plugin development, Ghost, Static Site Generators (MkDocs, Hugo, NextJS, Pelican, Jekyll, NuxtJS)
+* DevOps, AWS, Git, CI/CD, REST API testing, Postman, Databases (SQlite, MySQL, Postgres, MongoDB), Linux
+* VS Code, Microsoft Office, Google Docs, Adobe Creative Suite, Affinity Suite, MadCap Flare
 
