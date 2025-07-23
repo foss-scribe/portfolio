@@ -55,7 +55,7 @@ Collaborated with engineering, design, and QA teams to produce high-quality inte
 `Technical Writing` · `API Documentation` · `Editing` · `Testing` · `AI and ML` · `Python` · `TypeScript` · `Markdown` · `Git` · `MySQL` · `NextJS` · `React` · `Instructional Design`
 
 
-### Co-founder and Lead Developer, Nexus Pty Lrd, Australia 2022-2023
+### Co-founder and Lead Developer, Nexus Pty Ltd, Australia 2022-2023
 
 I was the co-founder and lead developer of Nexus3 Games, a startup company making a SaaS product to help people find and manage in-person and remote tabletop games.
 
